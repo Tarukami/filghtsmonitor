@@ -1,0 +1,32 @@
+[
+  {
+    "id": "1",
+    "chatId": 755790113,
+    "origin": "LED",
+    "destination": "AYT",
+    "departureStart": "2024-07-20",
+    "departureRange": "6",
+    "price": 20000,
+    "maxChanges": 0
+  },
+  {
+    "id": "2",
+    "chatId": 755790113,
+    "origin": "AYT",
+    "destination": "LED",
+    "departureStart": "2024-08-15",
+    "departureRange": "6",
+    "price": 15000,
+    "maxChanges": 0
+  },
+  {
+    "id": "3",
+    "chatId": 755790113,
+    "origin": "MOW",
+    "destination": "AYT",
+    "departureStart": "2024-07-20",
+    "departureRange": "6",
+    "price": 15000,
+    "maxChanges": 0
+  }
+]

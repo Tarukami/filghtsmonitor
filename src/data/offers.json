@@ -1,0 +1,492 @@
+[
+  {
+    "value": 29289,
+    "return_date": null,
+    "number_of_changes": 0,
+    "gate": "Авиасейлс",
+    "depart_date": "2024-07-20",
+    "subscription_id": "1",
+    "updated": "2024-07-01T21:11:00.163Z",
+    "id": "4c30aeb5-8c56-4e94-8572-c1afdfca513a"
+  },
+  {
+    "value": 26001,
+    "return_date": null,
+    "number_of_changes": 0,
+    "gate": "Nebo.Travel",
+    "depart_date": "2024-07-21",
+    "subscription_id": "1",
+    "updated": "2024-07-01T21:11:00.164Z",
+    "id": "c317bf4d-023a-4c72-82fa-484f7e60eaf7"
+  },
+  {
+    "value": 25509,
+    "return_date": null,
+    "number_of_changes": 0,
+    "gate": "City.Travel",
+    "depart_date": "2024-07-22",
+    "subscription_id": "1",
+    "updated": "2024-07-01T21:11:00.164Z",
+    "id": "99824df0-359c-4948-bdb2-a7c8c044d9fd"
+  },
+  {
+    "value": 24012,
+    "return_date": null,
+    "number_of_changes": 0,
+    "gate": "MEGO.travel",
+    "depart_date": "2024-07-23",
+    "subscription_id": "1",
+    "updated": "2024-07-01T21:11:00.164Z",
+    "id": "9880cb70-055b-403d-aff4-4cbe4d707326"
+  },
+  {
+    "value": 23692,
+    "return_date": null,
+    "number_of_changes": 0,
+    "gate": "Kupi.com",
+    "depart_date": "2024-07-24",
+    "subscription_id": "1",
+    "updated": "2024-07-01T21:11:00.164Z",
+    "id": "543e946b-c16b-45ed-865c-20741ba778e2"
+  },
+  {
+    "value": 23696,
+    "return_date": null,
+    "number_of_changes": 0,
+    "gate": "Kupi.com",
+    "depart_date": "2024-07-25",
+    "subscription_id": "1",
+    "updated": "2024-07-01T21:11:00.164Z",
+    "id": "6d512132-9ea3-46b8-9444-a07ccad271c1"
+  },
+  {
+    "value": 26069,
+    "return_date": null,
+    "number_of_changes": 0,
+    "gate": "Kupi.com",
+    "depart_date": "2024-07-26",
+    "subscription_id": "1",
+    "updated": "2024-07-01T21:11:00.164Z",
+    "id": "dc97e502-8d48-42e9-b6e7-19b79a126f98"
+  },
+  {
+    "value": 26211,
+    "return_date": null,
+    "number_of_changes": 0,
+    "gate": "City.Travel",
+    "depart_date": "2024-08-15",
+    "subscription_id": "2",
+    "updated": "2024-07-01T21:11:00.165Z",
+    "id": "1957060c-8202-49ec-afc9-3c325c361609"
+  },
+  {
+    "value": 22680,
+    "return_date": null,
+    "number_of_changes": 0,
+    "gate": "Kupi.com",
+    "depart_date": "2024-08-16",
+    "subscription_id": "2",
+    "updated": "2024-07-01T21:11:00.165Z",
+    "id": "73a1f87d-dcde-461c-98a3-5b5272cda959"
+  },
+  {
+    "value": 27315,
+    "return_date": null,
+    "number_of_changes": 0,
+    "gate": "Hit ticket",
+    "depart_date": "2024-08-17",
+    "subscription_id": "2",
+    "updated": "2024-07-01T21:11:00.166Z",
+    "id": "599709b4-b1d1-4136-86c6-a7a000e32344"
+  },
+  {
+    "value": 22665,
+    "return_date": null,
+    "number_of_changes": 0,
+    "gate": "City.Travel",
+    "depart_date": "2024-08-18",
+    "subscription_id": "2",
+    "updated": "2024-07-01T21:11:00.166Z",
+    "id": "e839ad70-ddd0-488d-86c9-8076143f3f61"
+  },
+  {
+    "value": 22465,
+    "return_date": null,
+    "number_of_changes": 0,
+    "gate": "City.Travel",
+    "depart_date": "2024-08-19",
+    "subscription_id": "2",
+    "updated": "2024-07-01T21:11:00.166Z",
+    "id": "40549f6d-873d-4538-8487-9b8da77fd277"
+  },
+  {
+    "value": 21844,
+    "return_date": null,
+    "number_of_changes": 0,
+    "gate": "City.Travel",
+    "depart_date": "2024-08-20",
+    "subscription_id": "2",
+    "updated": "2024-07-01T21:11:00.166Z",
+    "id": "008670ff-00b3-4160-ab6a-ffd635c7c023"
+  },
+  {
+    "value": 21768,
+    "return_date": null,
+    "number_of_changes": 0,
+    "gate": "City.Travel",
+    "depart_date": "2024-08-21",
+    "subscription_id": "2",
+    "updated": "2024-07-01T21:11:00.166Z",
+    "id": "6fd11bf3-0b40-42d2-abf6-17cefb1aafe0"
+  },
+  {
+    "value": 30675,
+    "return_date": null,
+    "number_of_changes": 0,
+    "gate": "MEGO.travel",
+    "depart_date": "2024-07-20",
+    "subscription_id": "1",
+    "updated": "2024-07-07T11:05:43.625Z",
+    "id": "0e0bcb43-d96c-45dd-99cd-0d8f29b41749"
+  },
+  {
+    "value": 27001,
+    "return_date": null,
+    "number_of_changes": 0,
+    "gate": "Nebo.Travel",
+    "depart_date": "2024-07-21",
+    "subscription_id": "1",
+    "updated": "2024-07-07T11:05:43.626Z",
+    "id": "1b35998a-f73e-4deb-9d23-3ee34fb85564"
+  },
+  {
+    "value": 25539,
+    "return_date": null,
+    "number_of_changes": 0,
+    "gate": "MEGO.travel",
+    "depart_date": "2024-07-22",
+    "subscription_id": "1",
+    "updated": "2024-07-07T11:05:43.626Z",
+    "id": "85822a65-ffea-45e6-b6cc-0ed153bffa4c"
+  },
+  {
+    "value": 24717,
+    "return_date": null,
+    "number_of_changes": 0,
+    "gate": "Kupi.com",
+    "depart_date": "2024-07-23",
+    "subscription_id": "1",
+    "updated": "2024-07-07T11:05:43.626Z",
+    "id": "747072f2-9200-4732-81b5-285028595618"
+  },
+  {
+    "value": 23350,
+    "return_date": null,
+    "number_of_changes": 0,
+    "gate": "MEGO.travel",
+    "depart_date": "2024-07-24",
+    "subscription_id": "1",
+    "updated": "2024-07-07T11:05:43.626Z",
+    "id": "15ed127f-234f-4d62-8c34-d9bda67bb83b"
+  },
+  {
+    "value": 25147,
+    "return_date": null,
+    "number_of_changes": 0,
+    "gate": "Kupi.com",
+    "depart_date": "2024-07-25",
+    "subscription_id": "1",
+    "updated": "2024-07-07T11:05:43.626Z",
+    "id": "6c33ac5d-f238-45bf-8766-944f2d0b5959"
+  },
+  {
+    "value": 27199,
+    "return_date": null,
+    "number_of_changes": 0,
+    "gate": "Kupi.com",
+    "depart_date": "2024-07-26",
+    "subscription_id": "1",
+    "updated": "2024-07-07T11:05:43.626Z",
+    "id": "a9409aab-6d3b-441a-832a-1f1a0244da1c"
+  },
+  {
+    "value": 29333,
+    "return_date": null,
+    "number_of_changes": 0,
+    "gate": "City.Travel",
+    "depart_date": "2024-08-15",
+    "subscription_id": "2",
+    "updated": "2024-07-07T11:05:43.627Z",
+    "id": "fff9f43e-5748-442f-8791-f9271dc78d68"
+  },
+  {
+    "value": 22641,
+    "return_date": null,
+    "number_of_changes": 0,
+    "gate": "Clickavia",
+    "depart_date": "2024-08-16",
+    "subscription_id": "2",
+    "updated": "2024-07-07T11:05:43.627Z",
+    "id": "84044151-4ba3-421b-8895-002464b2fac7"
+  },
+  {
+    "value": 28505,
+    "return_date": null,
+    "number_of_changes": 0,
+    "gate": "Hit ticket",
+    "depart_date": "2024-08-17",
+    "subscription_id": "2",
+    "updated": "2024-07-07T11:05:43.627Z",
+    "id": "03398cd6-5e7e-44fb-80c9-9b1430b5de58"
+  },
+  {
+    "value": 27447,
+    "return_date": null,
+    "number_of_changes": 0,
+    "gate": "City.Travel",
+    "depart_date": "2024-08-18",
+    "subscription_id": "2",
+    "updated": "2024-07-07T11:05:43.627Z",
+    "id": "799982e2-25c0-4b6c-b7bb-744fb022c81b"
+  },
+  {
+    "value": 23572,
+    "return_date": null,
+    "number_of_changes": 0,
+    "gate": "City.Travel",
+    "depart_date": "2024-08-19",
+    "subscription_id": "2",
+    "updated": "2024-07-07T11:05:43.627Z",
+    "id": "ed9b1a65-f329-4a4b-856b-ae118a01006b"
+  },
+  {
+    "value": 22912,
+    "return_date": null,
+    "number_of_changes": 0,
+    "gate": "MEGO.travel",
+    "depart_date": "2024-08-20",
+    "subscription_id": "2",
+    "updated": "2024-07-07T11:05:43.627Z",
+    "id": "0c2d2109-f643-4f6a-9c1e-cdfebd8a154b"
+  },
+  {
+    "value": 22719,
+    "return_date": null,
+    "number_of_changes": 0,
+    "gate": "Clickavia",
+    "depart_date": "2024-08-21",
+    "subscription_id": "2",
+    "updated": "2024-07-07T11:05:43.627Z",
+    "id": "81942a03-6011-4eda-b524-d3d29b40c0e5"
+  },
+  {
+    "value": 30675,
+    "return_date": null,
+    "number_of_changes": 0,
+    "gate": "MEGO.travel",
+    "depart_date": "2024-07-20",
+    "subscription_id": "1",
+    "updated": "2024-07-07T11:10:46.336Z",
+    "id": "6fda6d60-6303-4fda-87f1-af062cf4401d"
+  },
+  {
+    "value": 27001,
+    "return_date": null,
+    "number_of_changes": 0,
+    "gate": "Nebo.Travel",
+    "depart_date": "2024-07-21",
+    "subscription_id": "1",
+    "updated": "2024-07-07T11:10:46.339Z",
+    "id": "509621f6-d79d-4648-86ad-95733c99656a"
+  },
+  {
+    "value": 25539,
+    "return_date": null,
+    "number_of_changes": 0,
+    "gate": "MEGO.travel",
+    "depart_date": "2024-07-22",
+    "subscription_id": "1",
+    "updated": "2024-07-07T11:10:46.339Z",
+    "id": "24486cd7-41d6-4dc3-8c44-4da8fc4f5215"
+  },
+  {
+    "value": 24717,
+    "return_date": null,
+    "number_of_changes": 0,
+    "gate": "Kupi.com",
+    "depart_date": "2024-07-23",
+    "subscription_id": "1",
+    "updated": "2024-07-07T11:10:46.339Z",
+    "id": "949825cf-2f44-4b5e-a3c4-39e7216d7f12"
+  },
+  {
+    "value": 23350,
+    "return_date": null,
+    "number_of_changes": 0,
+    "gate": "MEGO.travel",
+    "depart_date": "2024-07-24",
+    "subscription_id": "1",
+    "updated": "2024-07-07T11:10:46.339Z",
+    "id": "a8824052-aec6-4ba8-820f-5fa5c1122003"
+  },
+  {
+    "value": 25147,
+    "return_date": null,
+    "number_of_changes": 0,
+    "gate": "Kupi.com",
+    "depart_date": "2024-07-25",
+    "subscription_id": "1",
+    "updated": "2024-07-07T11:10:46.339Z",
+    "id": "df400ae7-d54d-4f43-a082-53e24c6711b8"
+  },
+  {
+    "value": 27199,
+    "return_date": null,
+    "number_of_changes": 0,
+    "gate": "Kupi.com",
+    "depart_date": "2024-07-26",
+    "subscription_id": "1",
+    "updated": "2024-07-07T11:10:46.339Z",
+    "id": "6a92485a-d7e3-4475-b0e9-95a4f21ae5f0"
+  },
+  {
+    "value": 29333,
+    "return_date": null,
+    "number_of_changes": 0,
+    "gate": "City.Travel",
+    "depart_date": "2024-08-15",
+    "subscription_id": "2",
+    "updated": "2024-07-07T11:10:46.340Z",
+    "id": "44d1d8b0-d24f-48ba-ab41-cf68313548b9"
+  },
+  {
+    "value": 22641,
+    "return_date": null,
+    "number_of_changes": 0,
+    "gate": "Clickavia",
+    "depart_date": "2024-08-16",
+    "subscription_id": "2",
+    "updated": "2024-07-07T11:10:46.340Z",
+    "id": "2efc7a34-ac41-484e-beb4-43934fd54e21"
+  },
+  {
+    "value": 28505,
+    "return_date": null,
+    "number_of_changes": 0,
+    "gate": "Hit ticket",
+    "depart_date": "2024-08-17",
+    "subscription_id": "2",
+    "updated": "2024-07-07T11:10:46.340Z",
+    "id": "16eebc6e-f508-470f-bf36-442fc8e4b95d"
+  },
+  {
+    "value": 27447,
+    "return_date": null,
+    "number_of_changes": 0,
+    "gate": "City.Travel",
+    "depart_date": "2024-08-18",
+    "subscription_id": "2",
+    "updated": "2024-07-07T11:10:46.341Z",
+    "id": "c9c187eb-0b56-4581-b742-015f7e762d20"
+  },
+  {
+    "value": 23572,
+    "return_date": null,
+    "number_of_changes": 0,
+    "gate": "City.Travel",
+    "depart_date": "2024-08-19",
+    "subscription_id": "2",
+    "updated": "2024-07-07T11:10:46.341Z",
+    "id": "42b33c8e-c127-4273-8b37-2268c4f8748c"
+  },
+  {
+    "value": 22912,
+    "return_date": null,
+    "number_of_changes": 0,
+    "gate": "MEGO.travel",
+    "depart_date": "2024-08-20",
+    "subscription_id": "2",
+    "updated": "2024-07-07T11:10:46.341Z",
+    "id": "f2793355-41fb-484f-9365-21b4527285d1"
+  },
+  {
+    "value": 22719,
+    "return_date": null,
+    "number_of_changes": 0,
+    "gate": "Clickavia",
+    "depart_date": "2024-08-21",
+    "subscription_id": "2",
+    "updated": "2024-07-07T11:10:46.341Z",
+    "id": "257f6a76-2065-4d17-8917-67d3be993ddd"
+  },
+  {
+    "value": 14123,
+    "return_date": null,
+    "number_of_changes": 0,
+    "gate": "ИрАэро",
+    "depart_date": "2024-07-20",
+    "subscription_id": "3",
+    "updated": "2024-07-07T11:10:46.342Z",
+    "id": "365d930e-310d-401f-8910-ba2049974b37"
+  },
+  {
+    "value": 12879,
+    "return_date": null,
+    "number_of_changes": 0,
+    "gate": "Southwind",
+    "depart_date": "2024-07-21",
+    "subscription_id": "3",
+    "updated": "2024-07-07T11:10:46.342Z",
+    "id": "dd039f90-c1b8-45a3-abf5-a03530ad2e82"
+  },
+  {
+    "value": 12535,
+    "return_date": null,
+    "number_of_changes": 0,
+    "gate": "Utair",
+    "depart_date": "2024-07-22",
+    "subscription_id": "3",
+    "updated": "2024-07-07T11:10:46.342Z",
+    "id": "fd8a6d53-9e35-40b3-85f2-15153d97142c"
+  },
+  {
+    "value": 10573,
+    "return_date": null,
+    "number_of_changes": 0,
+    "gate": "Kupi.com",
+    "depart_date": "2024-07-23",
+    "subscription_id": "3",
+    "updated": "2024-07-07T11:10:46.342Z",
+    "id": "471a4fe5-1a36-414e-9ae7-d6881c627fa8"
+  },
+  {
+    "value": 10574,
+    "return_date": null,
+    "number_of_changes": 0,
+    "gate": "Kupi.com",
+    "depart_date": "2024-07-24",
+    "subscription_id": "3",
+    "updated": "2024-07-07T11:10:46.342Z",
+    "id": "7b16db42-db4a-46e3-b54c-2d207806740e"
+  },
+  {
+    "value": 12535,
+    "return_date": null,
+    "number_of_changes": 0,
+    "gate": "Utair",
+    "depart_date": "2024-07-25",
+    "subscription_id": "3",
+    "updated": "2024-07-07T11:10:46.342Z",
+    "id": "21418c4d-fa09-4db2-ac28-6f1d4936bf4a"
+  },
+  {
+    "value": 12986,
+    "return_date": null,
+    "number_of_changes": 0,
+    "gate": "MEGO.travel",
+    "depart_date": "2024-07-26",
+    "subscription_id": "3",
+    "updated": "2024-07-07T11:10:46.342Z",
+    "id": "5451f6d0-8fda-4cc7-8810-7bccd646bfa4"
+  }
+]

@@ -1,0 +1,7 @@
+node_modules/
+dist/
+
+.env
+
+todo.txt
+.vscode
